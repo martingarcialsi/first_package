@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-if __name__ = "__main__":
+if __name__ == "__main__":
 
     setup(name = "mypackage",
     decription = "Package to learn how to use packages with gtihub",
