@@ -2,8 +2,8 @@ Metadata-Version: 2.1
 Name: mypackage
 Version: 0.0.1
 Home-page: https://github.com/sergiobautistalsi/first_package
-Author: Sergio Sosa
-License: MIT
+Author: Sergio Bautista
+License: MIT License
 Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
 Classifier: Natural Language :: English
