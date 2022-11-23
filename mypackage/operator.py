@@ -9,5 +9,5 @@ class Operator:
 
     def substract(self, inverse: bool = False):
         if inverse:
-            return self.num2 = self.num1
+            return self.num2 - self.num1
         return self.num1 - self.num2
