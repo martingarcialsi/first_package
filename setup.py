@@ -20,7 +20,8 @@ def read(*parts):
     """
     Build an absolute path from *parts* and return the contents  of the resulting file. Assume UTF-8 encoding.
     """
-    with codecs.open(os.path.join(HERE, *parts), "rb", "utf-8")
+    with codecs.open(os.path.join(HERE, *parts), "rb", "utf-8") as f:
+        return f.read()
 
 META_FILE =read(META_PATH)
 
