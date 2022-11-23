@@ -7,7 +7,7 @@ if __name__ == "__main__":
     license = "MIT",
     url = "https://github.com/sergiobautistalsi/first_package",
     version = "0.0.1",
-    author = "Sergio Sosa".
+    author = "Sergio Sosa",
     email = "sergio.bautista@logicsource.com",
     long_description = open("README.md").read(),
     packages = find_packages(),
